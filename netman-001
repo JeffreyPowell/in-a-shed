@@ -8,6 +8,6 @@ cd /opt/dyndns
 wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/update.py
 
 cd /etc/cron.d
-wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/dyndns.py
+wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/dyndns
 
 cd ~
