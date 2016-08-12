@@ -2,3 +2,12 @@ apt-get install python
 apt-get install python-pip
 pip install pif
 pip install pygodaddy
+
+mkdir bin/godaddy-dyndns
+cd bin/godaddy-dyndns
+wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/update.py
+
+cd /etc/cron.d
+wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/dyndns-cron.py
+
+cd ~
