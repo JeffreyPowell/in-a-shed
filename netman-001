@@ -10,4 +10,4 @@ wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/updat
 cd /etc/cron.d
 wget https://raw.githubusercontent.com/JeffreyPowell/godaddy-dyndns/master/dyndns
 
-cd ~
+
