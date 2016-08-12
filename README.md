@@ -1,3 +1,3 @@
 # in-a-shed
 
-wget  | sudo sh
+wget https://raw.githubusercontent.com/JeffreyPowell/in-a-shed/master/netman-001 | sudo sh
