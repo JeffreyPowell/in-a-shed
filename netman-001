@@ -1,0 +1,4 @@
+apt-get install python
+apt-get install python-pip
+pip install pif
+pip install pygodaddy
